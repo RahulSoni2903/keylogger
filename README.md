@@ -45,8 +45,10 @@ This tool is meant for cybersecurity students and ethical hackers to understand 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+#Example 
+![image](https://github.com/user-attachments/assets/4d981018-4bb6-4e20-9b25-df41948b2324)
+
+
 
 ---
 
